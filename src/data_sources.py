@@ -3,13 +3,11 @@ Synthetic departmental workforce and accessibility data generator.
 
 Models the shape of real corporate social-responsibility (CSR) tracking
 work: quarterly, per-department records covering an accessibility/
-inclusion initiative (modeled on a "Disability Friendly Company"-style
-program), alongside standard departmental performance metrics, so the
+inclusion initiative, alongside standard departmental performance metrics, so the
 two can be linked the way a real CSR-impact tracker would.
 
 All department names, headcounts, and metrics below are entirely
-fictional. This is not real Airbus, Airbus Helicopters, or any real
-company's workforce data.
+fictional (synthetic data).
 """
 
 from __future__ import annotations

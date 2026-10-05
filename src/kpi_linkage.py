@@ -1,7 +1,6 @@
 """
 Links accessibility/CSR-program KPIs to departmental performance
-metrics -- the core ask of the posting: "linking social KPIs to overall
-departmental performance."
+metrics, linking social KPIs to overall departmental performance.
 """
 
 from __future__ import annotations
